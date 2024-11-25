@@ -1,0 +1,75 @@
+{
+    "Ants": {
+      "plants_affected": ["Tomatoes", "Peppers", "Sunflowers"],
+      "conditions": ["Warm, dry weather", "Soil rich in organic matter"],
+      "prevention_methods": ["Remove food sources", "Use sticky barriers", "Apply diatomaceous earth"],
+      "info_link": "http://npic.orst.edu/pest/ants.html"
+    },
+    "Bees": {
+      "plants_affected": ["Lavender", "Roses", "Clovers"],
+      "conditions": ["Flowering season", "Sunny locations"],
+      "prevention_methods": ["Plant away from seating areas", "Use bee-friendly deterrents", "Avoid attracting with sugary foods"],
+      "info_link": "http://npic.orst.edu/pest/Bees.html"
+    },
+    "Beetles": {
+      "plants_affected": ["Cucumbers", "Zucchini", "Corn"],
+      "conditions": ["Warm weather", "Presence of decaying vegetation"],
+      "prevention_methods": ["Handpick beetles", "Introduce beneficial insects", "Use neem oil spray"],
+      "info_link": "http://npic.orst.edu/pest/beetles.html"
+    },
+    "Caterpillars": {
+      "plants_affected": ["Cabbage", "Broccoli", "Tomatoes"],
+      "conditions": ["Mild to warm weather", "High humidity"],
+      "prevention_methods": ["Encourage natural predators", "Apply Bt (Bacillus thuringiensis)", "Use row covers"],
+      "info_link": "http://npic.orst.edu/pest/caterpillars.html"
+    },
+    "Earthworms": {
+      "plants_affected": ["General beneficial presence; minimal harm to plants"],
+      "conditions": ["Moist soil", "Organic-rich environments"],
+      "prevention_methods": ["No prevention needed; beneficial for soil health"],
+      "info_link": "http://npic.orst.edu/pest/earthworms.html"
+    },
+    "Earwig": {
+      "plants_affected": ["Lettuce", "Strawberries", "Dahlias"],
+      "conditions": ["Damp, sheltered locations", "Decaying plant matter"],
+      "prevention_methods": ["Trap with rolled newspaper", "Reduce mulch", "Use oil traps"],
+      "info_link": "http://npic.orst.edu/pest/earwigs.html"
+    },
+    "Grasshopper": {
+      "plants_affected": ["Lettuce", "Carrots", "Alfalfa"],
+      "conditions": ["Dry weather", "Open grassy areas"],
+      "prevention_methods": ["Introduce natural predators", "Use row covers", "Spray with garlic solution"],
+      "info_link": "http://npic.orst.edu/pest/grasshoppers.html"
+    },
+    "Moth": {
+      "plants_affected": ["Tomatoes", "Apples", "Cabbage"],
+      "conditions": ["Warm, still nights", "Near outdoor lights"],
+      "prevention_methods": ["Use pheromone traps", "Apply Bt (Bacillus thuringiensis)", "Introduce parasitic wasps"],
+      "info_link": "http://npic.orst.edu/pest/moths.html"
+    },
+    "Slug": {
+      "plants_affected": ["Lettuce", "Hostas", "Cabbage"],
+      "conditions": ["Moist, damp environments", "Shaded areas"],
+      "prevention_methods": ["Apply diatomaceous earth", "Set up beer traps", "Use copper barriers"],
+      "info_link": "http://npic.orst.edu/pest/slugs.html"
+    },
+    "Snail": {
+      "plants_affected": ["Strawberries", "Hostas", "Lettuce"],
+      "conditions": ["Cool, damp environments", "Mulched areas"],
+      "prevention_methods": ["Remove hiding places", "Set up beer traps", "Use crushed eggshell barriers"],
+      "info_link": "http://npic.orst.edu/pest/snails.html"
+    },
+    "Wasp": {
+      "plants_affected": ["Grapes", "Raspberries", "Flowers"],
+      "conditions": ["Warm weather", "Around food and sweets"],
+      "prevention_methods": ["Use wasp traps", "Keep trash covered", "Avoid wearing floral perfumes"],
+      "info_link": "http://npic.orst.edu/pest/wasps.html"
+    },
+    "Weevil": {
+      "plants_affected": ["Beans", "Peas", "Wheat"],
+      "conditions": ["Warm, humid conditions", "Overgrown vegetation"],
+      "prevention_methods": ["Handpick weevils", "Apply neem oil", "Use row covers"],
+      "info_link": "http://npic.orst.edu/pest/weevils.html"
+    }
+  }
+  

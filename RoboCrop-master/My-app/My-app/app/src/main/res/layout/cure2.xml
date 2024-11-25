@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CureActivity2">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!-- Button to take a picture -->
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/resultcure"
+            android:layout_alignParentBottom="true"
+            android:text="Take Picture"
+            android:textAllCaps="false"
+            android:textSize="21dp"
+            android:textStyle="bold" />
+
+        <!-- ImageView to display the picture -->
+
+        <!-- Text view for "Classified as:" -->
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="370dp"
+            android:layout_height="370dp"
+            android:layout_marginTop="10dp" />
+
+        <TextView
+            android:id="@+id/classified1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageView1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:text="Classified as:"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <!-- Text view for displaying the result -->
+        <TextView
+            android:id="@+id/result1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/classified1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:text=""
+            android:textColor="#C30000"
+            android:textSize="27dp"
+            android:textStyle="bold" />
+
+        <!-- SearchView -->
+        <SearchView
+            android:id="@+id/searchView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/result1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:queryHint="Enter your Disease..."
+            android:iconifiedByDefault="false"/>
+
+        <!-- Search Button -->
+        <Button
+            android:id="@+id/searchButton1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/searchView1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:text="Search"/>
+
+        <TextView
+            android:id="@+id/resultcure"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/searchButton1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:text=""
+            android:textColor="#C30000"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+</ScrollView>

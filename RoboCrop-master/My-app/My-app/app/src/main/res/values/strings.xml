@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RoboCrop</string>
+    <string name="info_not_available">Information not available for this disease.</string>
+    <string name="cure_not_available">Cure Not Found.</string>
+
+</resources>

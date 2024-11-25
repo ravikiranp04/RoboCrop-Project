@@ -1,0 +1,12 @@
+0 Ants
+1 Bees
+2 Bettles
+3 Caterpillar
+4 Earthworms
+5 Earwig
+6 Grasshopper
+7 Moth
+8 Slug
+9 Snail
+10 Wasp
+11 Weevil

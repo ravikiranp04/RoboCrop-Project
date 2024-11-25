@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background layer with curved corners -->
+    <background android:drawable="@drawable/logo">
+        <shape android:shape="rectangle">
+            <corners android:radius="50dp" />
+        </shape>
+    </background>
+    <!-- Foreground layer with curved corners -->
+    <foreground android:drawable="@drawable/pngegg">
+        <shape android:shape="rectangle">
+            <corners android:radius="50dp" />
+        </shape>
+    </foreground>
+</adaptive-icon>
