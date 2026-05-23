@@ -111,4 +111,5 @@ Open `Camera_Car.ino` in Arduino IDE, configure your Wi-Fi credentials and the F
 Built in collaboration with the ECE hardware team as part of a cross-disciplinary project.
 
 **Ravikiran Pedapalli** — Software (Flask backend, CV pipeline, detection model) 
+
 [LinkedIn](https://linkedin.com/in/pedapalli-ravi-kiran-ab5006254)
