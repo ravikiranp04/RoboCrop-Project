@@ -7,7 +7,7 @@ RoboCrop is a real-time automated pest detection and removal system built in col
 
 ---
 
-## 📈 Results
+## Results
 
 | Metric | Before | After |
 |---|---|---|
@@ -16,7 +16,7 @@ RoboCrop is a real-time automated pest detection and removal system built in col
 
 ---
 
-## 🔧 System Architecture
+## System Architecture
 
 ```
 ┌──────────────────────────────────────────┐
@@ -40,7 +40,7 @@ RoboCrop is a real-time automated pest detection and removal system built in col
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component | Technology |
 |---|---|
@@ -52,7 +52,7 @@ RoboCrop is a real-time automated pest detection and removal system built in col
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Real-time pest detection** using live camera feed from the rover
 - **Pest removal method classification** — selects appropriate removal strategy per pest type
@@ -62,7 +62,7 @@ RoboCrop is a real-time automated pest detection and removal system built in col
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 RoboCrop-Project/
@@ -76,7 +76,7 @@ RoboCrop-Project/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -100,7 +100,7 @@ Open `Camera_Car.ino` in Arduino IDE, configure your Wi-Fi credentials and the F
 
 ---
 
-## 🏆 Awards
+## Awards
 
 - **1st Prize** — VJ National Hackathon 2024, Precision Farming Automation Track
 - **Runner-up (Top 5 / 500+ teams)** — Smart India Hackathon 2023
