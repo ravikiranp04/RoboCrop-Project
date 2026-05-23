@@ -110,4 +110,4 @@ Open `Camera_Car.ino` in Arduino IDE, configure your Wi-Fi credentials and the F
 ## 👤 Author
 
 **Ravikiran Pedapalli**  
-[LinkedIn](www.linkedin.com/in/pedapalli-ravi-kiran-ab5006254) · [GitHub](https://github.com/ravikiranp04)
+[LinkedIn(https://linkedin.com/in/pedapalli-ravi-kiran-ab5006254) · [GitHub](https://github.com/ravikiranp04)
